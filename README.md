@@ -1,4 +1,4 @@
-This repository will be used for storing my ML research and developments on ML.
+This repository will be used for storing my ML research and developments.
 -----------------------
 # Overview
 
